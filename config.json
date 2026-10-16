@@ -1,0 +1,12 @@
+{
+  "sequenceLength": 2,
+  "animationSpeed": 600,
+  "pauseBetween": 300,
+  "startingLives": 3,
+  "pointsPerCircle": 100,
+  "pointsPerSequence": 500,
+  "levelsPerChapter": 5,
+  "difficultyPreset": "normal",
+  "timeLimit": 10,
+  "particleIntensity": 1
+}
